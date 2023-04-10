@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./logo.png" width="50%" alt="CIEN 동아리 로고"/>
+    <img src="/profile/logo.png" width="50%" alt="CIEN 동아리 로고"/>
     <h3><i>Chung-Ang University IT Entertainment</i></h3>
     <div>
         <a href="https://www.cien.or.kr"><img src="https://img.shields.io/badge/homepage-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence 링크"/></a>
