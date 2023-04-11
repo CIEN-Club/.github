@@ -3,6 +3,7 @@
     <h3><i>Chung-Ang University IT Entertainment</i></h3>
     <div>
         <a href="https://www.cien.or.kr"><img src="https://img.shields.io/badge/homepage-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence 링크"/></a>
+        <a href="mailto:support@cien.or.kr"><img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail 링크"/></a>
         <a href="https://facebook.com/ciendevteam"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook 링크"/></a>
         <a href="https://instagram.com/ciengames"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram 링크"/></a>
         <a href="https://twitch.tv/ciengames"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch 링크"/></a>
